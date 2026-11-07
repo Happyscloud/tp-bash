@@ -1,3 +1,5 @@
 Création de l'archive : backups/backup_2026-11-03_10-19-07.tar.gz
 Suppression des anciennes sauvegardes (> 7 jours)...
 Sauvegarde terminée avec succès.
+0: command not found
+-bash: pc@LAPTOP-5UMJAHH8:/mnt/c/Users/pc/Documents/tp-bash$: No such file or directory
